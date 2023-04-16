@@ -5,12 +5,16 @@
     "save_outfit": "Uložit nový outfit",
     "wear": "Obléct si %s",
     "update": "Upravit %s",
+    "delete": "Smazat %s",
     "outfit_name": "Název outfitu",
+    "invalid_name": "Neplatné jméno",
     "new_outfit": "Nový outfit",
     "rename_outfit": "Přejmenovat outfit",
     "confirm": "Potvrdit",
-    "open_shop": "[E] Open Shop",
-    "clothing_blip": "Clothing store",
-    "barber_blip": "Barber shop",
-    "tattoo_blip": "Tattoo studio"
+    "open_shop": "[E] Otevřít obchod",
+    "clothing_blip": "Obchod s oblečením",
+    "barber_blip": "Holič",
+    "tattoo_blip": "Tatér",
+    "command_help": "Povolí hráči skin menu",
+    "command_help_target": "ID Hráče"
 }
